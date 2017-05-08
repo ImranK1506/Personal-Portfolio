@@ -1,8 +1,7 @@
 <h1>Personal Portfolio</h1>
 
-<h2>Assignment: Bootstrap and other Frameworks</h2>
+<h2>Languagesm libraries & Frameworks</h2>
 
-Languagesm libraries & Frameworks:
 * HTML5
 * CSS3
 * JavaScript
