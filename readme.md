@@ -1,6 +1,6 @@
 <h1>Personal Portfolio</h1>
 
-<h2>Languagesm libraries & Frameworks</h2>
+<h2>Languages, Libraries & Frameworks</h2>
 
 * HTML5
 * CSS3
