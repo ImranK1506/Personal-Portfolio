@@ -1,0 +1,47 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #770;
+	font-weight: 300;
+}
+
+/*Featured work title*/
+.text-muted {
+	color: #bbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+/*Title*/
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+/* center modal images */
+.img-responsive, .img-rounded {
+	margin: 0 auto;
+}
+
+/* navbar */
+.navbar {
+	margin: 0;
+	background-color: transparent;
+	background: transparent;
+	border-color: transparent;
+	box-shadow: none;
+}
+
+.nav-justified li a:hover {
+	background-color: #bbb;
+	color: #000;
+}
+
+.nav-justified li a {
+	font-size: 1.3em;
+	color: #bbb;
+
