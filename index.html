@@ -24,6 +24,9 @@
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300" rel="stylesheet">
 
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <title>Imran Khan - Front-End Web Developer</title>
 </head>
 
@@ -63,7 +66,7 @@
                         <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
                         <li><a href="#">About me</a></li>
                         <li><a href="#">Featured Work</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="#contact-link">Contact</a></li>
                     </ul>
                 </div>
           </div>
@@ -183,16 +186,56 @@
                 </div>
             </div>
         </div>
+        <!-- Border -->
+        <div class="row">
+            <div class="col-md-12"> 
+              <hr>
+            </div>
+        </div>
         <!-- Footer -->
-        <footer class="footer">
+        <div class="navbar navbar-default navbar-bottom" id="contact-link">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4 col-sm-6">
-                    test
+                    <div class="col-md-6">
+                        <div class="navbar-text pull-left">
+
+                       © 2017 - All Rights with Imran Khan - Front-End Web Developer
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="navbar-text pull-right">
+                            <a href="https://www.google.nl/maps/place/IJdoornlaan+251H2,+1024+KM+Amsterdam/@52.3936806,4.9533807,16.85z/data=!4m5!3m4!1s0x47c608dd00534c5d:0x166086b95d11f756!8m2!3d52.3936326!4d4.9557117" target="_blank"><i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>
+                            <a href="https://github.com/ImranK1506" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
+                            <a href="#" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>
+                            <a href="https://www.linkedin.com/in/imran-khan-621342104/" target="_blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i>
+                            <a href="#contact-link"><i class="fa fa-id-card fa-2x" data-toggle="modal" data-target="#mobile-popup"></i></a>
+                        </div>
                     </div>
                 </div>
             </div>
-        </footer>
+            <!-- Mobile popup -->
+            <div class="modal fade" id="mobile-popup">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h3 class="modal-title text-center">Contact details</h3>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    <p><i class="glyphicon glyphicon-phone"> : 31 6 37336418</i></p>
+                    <p><i class="glyphicon glyphicon-envelope"> : m_imran_khan@me.com</i></p>
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div> <!-- End navbar footer -->
+
     </div> <!-- container -->
 
 </body>
