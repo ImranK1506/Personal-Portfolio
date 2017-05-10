@@ -9,7 +9,7 @@
 * Bootstrap
 
 <h2>On screen</h2>
-Under Construction
+<a href="http://personal-portfolio-imrankhan-fe.bitballoon.com/">Personal Portfolio</a>
 
 <h2>Author</h2>
 Imran Khan
