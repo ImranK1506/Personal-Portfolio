@@ -27,6 +27,11 @@ body {
 	margin: 0 auto;
 }
 
+/* mid image */
+.midimg {
+	border-radius: 10px;
+}
+
 /* project hover */
 .with-hover:hover {
 	cursor: pointer;
