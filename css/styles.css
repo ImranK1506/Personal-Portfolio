@@ -4,15 +4,6 @@ body {
 	font-weight: 300;
 }
 
-/*Featured work title*/
-.text-muted {
-	color: #bbb;
-}
-
-.text-thin {
-	font-weight: 100;
-}
-
 /*Title*/
 .title-super {
 	font-size: 60px;
@@ -22,9 +13,23 @@ body {
 	margin-top: 20px;
 }
 
+/* Featured work title */
+.text-muted {
+	color: #bbb;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
 /* center modal images */
 .img-responsive, .img-rounded {
 	margin: 0 auto;
+}
+
+/* project hover */
+.with-hover:hover {
+	cursor: pointer;
 }
 
 /* navbar */
@@ -37,8 +42,8 @@ body {
 }
 
 .nav-justified li a:hover {
-	background-color: #bbb;
-	color: #000;
+	color: #770;
+	background-color: transparent;
 }
 
 .nav-justified li a {
