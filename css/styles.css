@@ -1,6 +1,6 @@
 body {
 	font-family: 'Lato', sans-serif;
-	color: #770;
+	color: #59f;
 	font-weight: 300;
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .nav-justified li a:hover {
-	color: #770;
+	color: #59f;
 	background-color: transparent;
 }
 
