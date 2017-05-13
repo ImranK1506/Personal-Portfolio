@@ -1,5 +1,5 @@
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #59f;
 	font-weight: 300;
 }
@@ -23,7 +23,8 @@ body {
 }
 
 /* center modal images */
-.img-responsive, .img-rounded {
+.img-responsive,
+.img-rounded {
 	margin: 0 auto;
 }
 
@@ -33,7 +34,7 @@ body {
 }
 
 /* navbar */
-.navbar {
+.cosmetics {
 	margin: 0;
 	background-color: transparent;
 	background: transparent;
@@ -41,19 +42,18 @@ body {
 	box-shadow: none;
 }
 
-.nav-justified li a:hover {
+.hover-menu li a:hover {
 	color: #59f;
 	background-color: transparent;
 }
 
-.nav-justified li a {
+.custom-menu li a {
 	font-size: 1.3em;
 	color: #bbb;
 }
 
 /* footer */
 .navbar-bottom {
-/*	background-color: black;*/
 	font-weight: 300;
 }
 
