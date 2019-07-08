@@ -13,7 +13,7 @@
 * ES6
 
 ## Preview
-[Portfolio](https://dist-2syt7na9w.now.sh)
+[Portfolio](https://dist-o80dratwv.now.sh/)
 
 ## Author
 Imran Khan
