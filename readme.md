@@ -13,7 +13,7 @@
 * ES6
 
 ## Preview
-[Portfolio](http://personal-portfolio-imrankhan-fe.bitballoon.com/)
+[Portfolio](https://dist-2syt7na9w.now.sh)
 
 ## Author
 Imran Khan
