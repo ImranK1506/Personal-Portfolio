@@ -19,7 +19,9 @@
   "dependencies": {
     "browser-sync": "^2.26.7",
     "gulp-cli": "^2.2.0",
-    "gulp-sourcemaps": "^2.6.5"
+    "gulp-imagemin": "^6.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "imagemin-pngquant": "^8.0.0"
   },
   "devDependencies": {
     "gulp": "^3.9.1",

@@ -1,15 +1,19 @@
-<h1>Personal Portfolio</h1>
+#Udacity - Front-End Web Developer Portfolio
 
-<h2>Languages, Libraries & Frameworks</h2>
+## Projects
 
+#### Memory Game
 * HTML5
 * CSS3
-* JavaScript
-* jQuery
-* Bootstrap
+* ES6
 
-<h2>On screen</h2>
-<a href="http://personal-portfolio-imrankhan-fe.bitballoon.com/">Personal Portfolio</a>
+#### Arcade Game
+* HTML5
+* CSS3
+* ES6
 
-<h2>Author</h2>
+## Preview
+[Portfolio](http://personal-portfolio-imrankhan-fe.bitballoon.com/)
+
+## Author
 Imran Khan
